@@ -6,40 +6,40 @@
 </a>
 
 <!-- Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Neha+%F0%9F%91%8B;Fullstack+Developer+%7C+MERN+Stack;React+Performance+%26+API+Systems;Building+real-world+production+apps;Open+to+Collaborations+%26+Projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Saurabh+%F0%9F%91%8B;Fullstack+Developer+%7C+MERN+Stack;React+Performance+%26+API+Systems;Building+real-world+production+apps;Open+to+Collaborations+%26+Projects!" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Badges -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha--Singh-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-singh-66455a343/)
-[![Email](https://img.shields.io/badge/Gmail-Neha1018-D14836?style=for-the-badge&logo=gmail&logoColor=white)](nehavns1018@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-50%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/neha1018/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saurabh--Rai-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-rai-b681a6296/)
+[![Email](https://img.shields.io/badge/Gmail-Saurabhrai1910-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saurabhrai1910@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-100%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Saurabhrai019/)
 
-<img src="https://komarev.com/ghpvc/?username=neha10sys&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Saurabh19-10&label=Profile+Views&color=7C3AED&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 🧬 The `neha10sys` Object
+## 🧬 The `Saurabh19-10` Object
 
 ```typescript
-const neha: Developer = {
-  name:       "Neha Singh",
+const Saurabh: Developer = {
+  name:       "Saurabh Rai",
   role:       "Fullstack-Leaning Software Engineer",
   education:  "B.Tech CSE @ Galgotia college of engineering and technology (2023–2027)",
   location:   "India 🇮🇳",
 
-  currentlyBuilding: " An AI-powered Resume Analyzer",
+  currentlyBuilding: "A Blogging Website",
   openTo:     ["Collaborations", "Web Dev Projects", "Open Source Contributions"],
 
   techFocus: {
     frontend:    ["React 19", "Next.js",  "Tailwind CSS"],
     backend:     ["Node.js", "Express.js", "REST APIs", ],
     database:    ["MongoDB", "SQL"],
-    languages:   ["JavaScript (ES6+)",  "C++", "Python"],
+    languages:   ["JavaScript (ES6+)",  "Java", "Python"],
   },
 
   funFact: "☕ Powered by curiosity and caffeine.",
@@ -54,9 +54,9 @@ const neha: Developer = {
 
 | 🚀 Project | 💡 Description | 🔗 Live Demo | 📂 Repository | 🛠️ Tech Stack |
 |:-----------|:--------------|:------------:|:-------------:|:--------------|
-| **Work Sphere** | Role-based task coordination platform for admins & employees with Excel report export. | **[🌐 Live](https://work-sphere-sage.vercel.app/)** | **[📂 GitHub](https://github.com/neha10sys/Work-Sphere)** | React · Tailwind · Node.js · Express · MongoDB |
-| **Yatraverse** | AI-powered travel recommendation website that helps users explore local experiences and culture. | 🚧 *Coming Soon* | **[📂 GitHub](https://github.com/neha10sys/Yatraverse)** | MERN · Gemini API · Tailwind CSS |
-| **Verixa** | Developer skill verification platform with assessments, project verification, certificates, and trust scoring. | **[🌐 Live](https://www.verixa.co.in/)** | **[📂 GitHub](https://github.com/neha10sys/Verixa)** | MERN · JWT · Socket.io · Tailwind CSS |
+| **DevTales** |A modern developer-focused web platform for sharing projects, ideas, and stories through a clean and responsive interface.| **[🌐 Live](https://dev-tales-dusky.vercel.app/)** | **[📂 GitHub](https://github.com/Saurabh19-10/Devtales)** | React · Tailwind · Node.js · Express · MongoDB |
+| **Yatraverse** | AI-powered travel recommendation website that helps users explore local experiences and culture. | 🚧 *Coming Soon* | **[📂 GitHub](https://github.com/Saurabh19-10/Yatraverse_Travel-Tourism)** | MERN · Gemini API · Tailwind CSS |
+| **Verixa** | Developer skill verification platform with assessments, project verification, certificates, and trust scoring. | **[🌐 Live](https://www.verixa.co.in/)** | **[📂 GitHub](https://github.com/Saurabh19-10/Verixa-skillVerify)** | MERN · JWT · Socket.io · Tailwind CSS |
 
 </div>
 
@@ -89,20 +89,12 @@ const neha: Developer = {
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=khu5shi&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=5)
-
-</div>
-
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Neha's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khu5shi&custom_title=Neha's%20Contribution%20Graph&bg_color=1A1B27&color=A855F7&line=7C3AED&point=EC4899&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Saurabh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurabh19-10&custom_title=Saurabh's%20Contribution%20Graph&bg_color=1A1B27&color=A855F7&line=7C3AED&point=EC4899&area=true&hide_border=true)](https://github.com/Saurabh19-10/github-readme-activity-graph)
 
 </div>
 
@@ -122,9 +114,8 @@ const neha: Developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neha-singh-66455a343/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/neha_gryffindor/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](neha1018@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saurabh-rai-b681a6296/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](saurabhrai1910@gmail.com)
 
 <br/>
 
