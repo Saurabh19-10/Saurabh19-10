@@ -89,15 +89,20 @@ const Saurabh: Developer = {
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ---
 
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophies](https://github-trophies.vercel.app/?username=Saurabh19-10&theme=discord&no-frame=true&no-bg=true&margin-w=15)
+</div>
 
 ## 📈 Contribution Graph
 
 <div align="center">
 
-[![Saurabh's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Saurabh19-10&custom_title=Saurabh's%20Contribution%20Graph&bg_color=1A1B27&color=A855F7&line=7C3AED&point=EC4899&area=true&hide_border=true)](https://github.com/Saurabh19-10/github-readme-activity-graph)
+![Saurabh's Contribution Graph](https://ghchart.rshah.org/A855F7/Saurabh19-10)
 
 </div>
-
 ---
 
 ## ✍️ Dev Quote of the Day
